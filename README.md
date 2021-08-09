@@ -28,9 +28,9 @@
 
 ## Example
 
-<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/img/1" width="700">
+<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/img/1.png" width="700">
 
-<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/img/2" width="700">
+<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/img/2.png" width="700">
 
 
 
