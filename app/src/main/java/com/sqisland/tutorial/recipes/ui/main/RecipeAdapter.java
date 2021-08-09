@@ -8,8 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.sqisland.tutorial.recipes.R;
-import com.sqisland.tutorial.recipes.ui.main.data.local.RecipeStore;
-import com.sqisland.tutorial.recipes.ui.main.data.model.Recipe;
+import com.sqisland.tutorial.recipes.data.local.RecipeStore;
+import com.sqisland.tutorial.recipes.data.model.Recipe;
 import com.sqisland.tutorial.recipes.ui.recipe.RecipeActivity;
 
 import static com.sqisland.tutorial.recipes.ui.recipe.RecipeActivity.KEY_ID;

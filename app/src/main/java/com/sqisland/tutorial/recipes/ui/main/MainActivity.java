@@ -6,7 +6,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
 import com.sqisland.tutorial.recipes.R;
-import com.sqisland.tutorial.recipes.ui.main.data.local.RecipeStore;
+import com.sqisland.tutorial.recipes.data.local.RecipeStore;
 
 public class MainActivity extends AppCompatActivity {
   @Override

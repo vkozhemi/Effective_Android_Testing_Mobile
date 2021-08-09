@@ -1,4 +1,4 @@
-package com.sqisland.tutorial.recipes.ui.main.data.model;
+package com.sqisland.tutorial.recipes.data.model;
 
 import org.junit.Test;
 

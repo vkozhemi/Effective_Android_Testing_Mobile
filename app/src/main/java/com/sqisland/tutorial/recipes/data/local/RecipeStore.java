@@ -1,9 +1,9 @@
-package com.sqisland.tutorial.recipes.ui.main.data.local;
+package com.sqisland.tutorial.recipes.data.local;
 
 import android.content.Context;
 import android.content.res.AssetManager;
 
-import com.sqisland.tutorial.recipes.ui.main.data.model.Recipe;
+import com.sqisland.tutorial.recipes.data.model.Recipe;
 
 import java.io.File;
 import java.io.IOException;

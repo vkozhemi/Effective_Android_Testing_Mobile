@@ -1,4 +1,4 @@
-package com.sqisland.tutorial.recipes.ui.main.data.model;
+package com.sqisland.tutorial.recipes.data.model;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,9 +1,9 @@
-package com.sqisland.tutorial.recipes.ui.main.data.local;
+package com.sqisland.tutorial.recipes.data.local;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 
-public class SharedPreferencesFavorites {
+public class SharedPreferencesFavorites implements Favorites {
     private final SharedPreferences pref;
 
     public SharedPreferencesFavorites(Context context) {
