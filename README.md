@@ -15,22 +15,22 @@
 
 ### Scheme
 
-<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/1.jpg" width="700">
+<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/img/1.jpg" width="700">
 
-<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/2.jpg" width="700">
+<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/img/2.jpg" width="700">
 
-<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/3.jpg" width="700">
+<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/img/3.jpg" width="700">
 
-<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/4.jpg" width="700">
+<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/img/4.jpg" width="700">
 
-<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/5.jpg" width="700">
+<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/img/5.jpg" width="700">
 
 
 ## Example
 
-<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/1" width="700">
+<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/img/1" width="700">
 
-<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/2" width="700">
+<img src="https://github.com/vkozhemi/Effective_Android_Testing_Mobile/blob/master/img/2" width="700">
 
 
 
